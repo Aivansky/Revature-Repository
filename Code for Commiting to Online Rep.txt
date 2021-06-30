@@ -1,0 +1,25 @@
+git init
+
+git remote add origin https://github.com/Aivansky/Rev-Repository.git
+
+git remote -v (for checking current repository)
+
+git add -A(add all files)
+
+git commit -m 'Added my project'
+
+git pull --rebase origin master
+
+git push  origin Labs
+
+
+
+Simplified One
+
+cd Desktop/Rep
+
+git add -A
+
+git commit -m 'Added something'
+
+git push origin Labs
