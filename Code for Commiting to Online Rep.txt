@@ -8,7 +8,7 @@ git add -A(add all files)
 
 git commit -m 'Added my project'
 
-git pull --rebase origin master
+git pull --rebase origin Labs
 
 git push  origin Labs
 
